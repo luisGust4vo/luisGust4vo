@@ -14,3 +14,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-lluisresende13@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lluisresende13@gmail.com)](lluisresende13@gmail.com)
 
 
+[![Gmail Badge](https://img.shields.io/badge/-lgrcosta@sga.pucminas.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lluisresende13@gmail.com)](lluisresende13@gmail.com)
