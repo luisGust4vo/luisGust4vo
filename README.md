@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luís
-👨🏻‍💻 - Computer engineering student.a
+👨🏻‍💻 - Computer engineering student.
 
 🌎 - Lives in Belo-Horizonte, Brazil.
 
