@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luís
-👨🏻‍💻 - Computer engineering student - PUC Minas.
+👨🏻‍💻 - Computer engineering student - PUC Minas.a
 
 🌎 - Lives in Belo-Horizonte, Brazil.
 
