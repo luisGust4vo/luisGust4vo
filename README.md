@@ -2,7 +2,7 @@
 👨🏻‍💻 - Computer engineering student - PUC Minas.
 
 🌎 - Lives in Belo-Horizonte, Brazil.
-a
+
 # Find me elsewhere  👇
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="340"/>
