@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Luís
+# <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="50"> Hi, I’m Luís
 👨🏻‍💻 - Computer engineering student - PUC Minas.
 
 🌎 - Lives in Belo-Horizonte, Brazil.
@@ -12,6 +12,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-lluisresende13@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lluisresende13@gmail.com)](lluisresende13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luisgust4vo.github.io/portif-6633cc?style=flat-square&logo=CloudBees&logoColor=white&link=mailto:lluisresende13@gmsail.com)](lluisresendes13@gmail.com)
 
 
 
